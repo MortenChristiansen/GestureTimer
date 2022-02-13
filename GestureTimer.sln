@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureTimer", "GestureTimer\GestureTimer.csproj", "{F7A9D572-9FFB-40F6-8AC7-25E0512C4BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A9D572-9FFB-40F6-8AC7-25E0512C4BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A9D572-9FFB-40F6-8AC7-25E0512C4BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A9D572-9FFB-40F6-8AC7-25E0512C4BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A9D572-9FFB-40F6-8AC7-25E0512C4BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFA00A1-D32F-49E3-9771-0AFCDF1567E5}
+	EndGlobalSection
+EndGlobal
